@@ -1,0 +1,9 @@
+title: Imba-Dev LLP
+description: Official company information and contacts for Imba-Dev LLP (TOO «Imba-Dev»)
+url: https://imbadev.com
+# Если сайт в подпапке (репозиторий не username.github.io), добавьте:
+# baseurl: ""   # например: /imbadev
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme

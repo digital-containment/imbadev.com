@@ -1,3 +1,8 @@
+---
+layout: default
+title: Imba-Dev LLP
+---
+
 # Imba-Dev LLP  
 **Legal Entity:** TOO «Imba-Dev» (Kazakhstan)  
 **D-U-N-S® Number:** 630531264  

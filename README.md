@@ -5,7 +5,7 @@
 ---
 
 ### 📍 Company Information
-**Address:** 37 Ulitsa Zheltoksan, Almaty, Kazakhstan  
+**Address:** Almaty, Almaty district, Makatayev street, 156, apt. 32  
 **Legal Status:** Corporation  
 **Country:** KZ  
 

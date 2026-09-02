@@ -5,7 +5,7 @@
 ---
 
 ### 📍 Company Information
-**Address:** Almaty, Almaty district, Makatayev street, 156, apt. 32  
+**Address:** Almaty, Almaly district, Nauryzbai Batyr street, 49/61, apt. 33, 050000, Kazakhstan  
 **Legal Status:** Corporation  
 **Country:** KZ  
 
